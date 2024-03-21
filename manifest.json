@@ -1,0 +1,10 @@
+{
+	"id": "Obsidian-space-remover",
+	"name": "SPACY :p",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Converts spaces to '_' in note titles",
+	"author": "MostlyK",
+	"authorUrl": "https://github.com/MostlyKIGuess",
+	"isDesktopOnly": false
+}
